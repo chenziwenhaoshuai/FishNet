@@ -1,7 +1,7 @@
 # FishNet
 FishNet: One Stage to Detect, Segmentation and Pose Estimation
 ## Introduction
-In this project, we combine target detection, instance segmentation, and keypoint detection into the same network structure and use a YOLO-like model to give predicted values using one phase. We use the idea of multi-task network to merge the three tasks, and use the labeled fish images as the experimental objects, and finally achieve good results.
+In this project, we combine target detection, instance segmentation, and keypoint detection into the one network structure and use a YOLO-like model to give predicted values using one phase. We use the idea of multi-task network to merge the three tasks, and use the labeled fish images as the experimental objects, and finally achieve good results.
 ## Method
 Update Later...
 ## Result
